@@ -1,0 +1,7 @@
+server:
+  port: 8080
+  servlet:
+    context-path: /
+
+openai:
+  endpoint: sk-EqNOl3UM3f0jVKz2C9044f6d3637407eB8D497A636336616
